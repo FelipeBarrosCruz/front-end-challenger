@@ -11,8 +11,8 @@ Uma coisa muito importante: Não precisa realizar o teste por completo, caso nã
 * Desenvolver uma layout (use a criátividade) o intuito aqui não é avaliar o design mas sim sua criatividade de entregar as coisas lembre-se queremos tirar você de sua zona de conforto.
 * Criar um script em Javascript que faça uma requisição para /people.json.
 * Apresentar os dados requisitados no seu layout.
-* Importante que em sua página exista um botão onde seja possivel somar votos para as pessoas.
-* Importante que em sua página uma área de pesquisa com os dados populados pelo people.json
+* Importante que em sua página exista um botão onde seja possivel somar votos para as pessoas (client side apenas).
+* Importante que em sua página uma área de pesquisa com os dados populados pelo people.json (client side apenas)
 * Documentar suas dificuldades
 * Documentar brevemente o que fez e sua rotina de trabalho (de preferencia separado por data para sabermos quantos dias foi gasto)
 * Submeta o Pull Request!
