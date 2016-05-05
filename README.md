@@ -20,7 +20,7 @@ Uma coisa muito importante: Não precisa realizar o teste por completo, caso nã
 O que não deve-se fazer:
 * NÃO alterar o arquivo people.json. Em hipótese nenhuma!
 * NÃO utilizar frameworks CSS
-* NÃO utilizra generators yeoman like
+* NÃO utilizar generators yeoman like
 
 Pontos Extras:
 * Utilizar Materials Design Concepts
