@@ -20,11 +20,11 @@ Uma coisa muito importante: Não precisa realizar o teste por completo, caso nã
 O que não deve-se fazer:
 * NÃO alterar o arquivo people.json. Em hipótese nenhuma!
 * NÃO utilizar frameworks CSS
-* NÃO utilizar generators yeoman like
 
 Pontos Extras:
 * Utilizar Materials Design Concepts
 * Utilizar preprocessadores (SASS, LESS)
 * Utilizar automatizadores de tarefas (Grunt, Gulp)
 * Deixar o projeto production ready (minificado, gziped e mais)
+* Ser responsivo
 * Utilizar Angular.js
